@@ -28,10 +28,7 @@ Currently exploring the **MERN stack**, sharpening **DSA**, and preparing for **
 ---
 
 ## 🛠️ Languages & Tools
-**Languages:** C, C++, Python  
-**Web:** HTML, CSS, JavaScript, PHP, React, Node.js, Next.js  
-**Databases:** SQL , MySQL
-**Tools:** Linux, Git, GitHub  
+💻 C, C++, Python | 🌐 HTML, CSS, JavaScript, PHP | 🚀 React, Node.js, Next.js, SQL | ⚙️ Linux, Git, GitHub
 
 ---
 
