@@ -9,7 +9,7 @@ Currently exploring the **MERN stack**, sharpening **DSA**, and preparing for **
 
 📫 **Let’s Connect**  
 - Email: nidhig2203@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-link   
+- LinkedIn: https://www.linkedin.com/in/nidhi-gupta-463a52291/
 
 
 ## 🎓 Education
