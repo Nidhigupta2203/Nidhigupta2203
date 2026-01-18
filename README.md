@@ -1,16 +1,42 @@
-## Hi there 👋
+# Nidhi Gupta 👋
 
-<!--
-**Nidhigupta2203/Nidhigupta2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> B.Tech ECE @ IIIT Nagpur | MERN | DSA & Competitive Programming | Aspiring SDE
 
-Here are some ideas to get you started:
+I enjoy solving problems and turning ideas into clean, usable web applications.  
+Currently exploring **MERN stack**, sharpening **DSA**, and preparing for **SDE internship roles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Build full-stack web apps with **React, Node.js, MySQL**
+- Practice **DSA & Competitive Programming** consistently
+- Focus on writing **clean, scalable, and readable code**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** C, C++, Python  
+**Web:** HTML, CSS, JavaScript, React, Node.js, Next.js  
+**Tools:** Git, GitHub, Linux  
+
+---
+
+## 📌 Highlights
+- ⭐ **800+ problems** solved on LeetCode, GeeksforGeeks and other plateforms
+- 🏅 **SIH 2025 Internal Hackathon** selection  
+
+---
+
+## 🌱 Currently
+- Improving problem-solving depth  
+- Building stronger real-world projects  
+- Actively preparing for **SDE internships**
+
+---
+
+📫 **Let’s connect**  
+- Email: nidhig2203@gmail.com  
+- LinkedIn: https://linkedin.com/in/your-link  
+- GitHub: https://github.com/your-username  
+
+✨ *Learning every day. Building step by step.*
