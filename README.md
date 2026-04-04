@@ -18,7 +18,7 @@ Currently exploring the **MERN stack**, sharpening **DSA**, and preparing for **
   
 
 ## 📌 Highlights
-- Solved **800+ problems** across LeetCode, GeeksforGeeks, and other platforms  
+- Solved **1000+ problems** across LeetCode, GeeksforGeeks, and other platforms  
 - **Smart India Hackathon (SIH) 2025** — Internal Hackathon Qualifier
   
 
