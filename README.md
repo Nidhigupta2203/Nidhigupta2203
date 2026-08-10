@@ -14,7 +14,7 @@ Currently exploring the **MERN stack**, sharpening **DSA**, and preparing for **
 
 ## 🎓 Education
 - **B.Tech in Electronics and Communication Engineering** — IIIT Nagpur (2023 – 2027)  
-  **CGPA:** 9.00 / 10.00 ⭐
+  **CGPA:** 9.08 / 10.00 ⭐
   
 
 ## 📌 Highlights
